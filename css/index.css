@@ -278,7 +278,7 @@ footer nav a {
 /* About CSS Starts Here */
 
 .TextHeader {
-    padding: 50px 2%;
+    padding: 0 2% 50px 2%;
     border-bottom: dotted gray 2px;
 }
 
